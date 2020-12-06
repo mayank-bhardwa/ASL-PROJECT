@@ -1,0 +1,11 @@
+.vscode
+.idea
+.ipynb_checkpoints
+_pycache_
+*.jpg
+*.csv
+*.npy
+*.ipynb
+*.pcy
+*.git
+*.h5
